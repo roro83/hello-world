@@ -1,3 +1,3 @@
 # hello-world
 A test of using Github 
-I'm a technical writer trying to get to grips with how to use github so I can start using ti for documentation
+I'm a technical writer trying to get to grips with how to use Github so I can start using it for documentation
